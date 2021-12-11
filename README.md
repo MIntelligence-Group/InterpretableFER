@@ -16,13 +16,13 @@ Setup and Dependencies
 ```sh
 pip install -r Requirements.txt
 ```
-3. Download the ==utils== folder to get all required function.
-4. Download ==Runner.ipynb== the main file.
+3. Download the ``utils`` folder to get all required function.
+4. Download ``Runner.ipynb`` the main file.
 
 Steps to run the Code
 ---------------------
-1. In ==Runner.ipynb== change the path of the codebase ,data folder and output folder accordingly. 
-2. Run ==Runner.ipynb== in Jupyter Notebook
+1. In ``Runner.ipynb`` change the path of the codebase ,data folder and output folder accordingly. 
+2. Run ``Runner.ipynb`` in Jupyter Notebook
 
 
 
