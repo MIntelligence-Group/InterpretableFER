@@ -3,7 +3,7 @@ Towards Interpretable Facial Emotion Recognition
 
 Implementation for the paper (submitted to ICVGIP 2021). <br>
 **[Towards Interpretable Facial Emotion Recognition][1]**<br>
-Sarthak Malik, [Puneet Kumar](https://puneet-kr.github.io/) and [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/)  
+[Sarthak Malik](https://github.com/ganzagun), [Puneet Kumar](https://puneet-kr.github.io/) and [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/)  
 
 ## Code Files
 The code files are currently private as the corresponding research paper in ICVGIP 2021 is under review. They will be made publically available soon after the paper is published/accepted for publication.
